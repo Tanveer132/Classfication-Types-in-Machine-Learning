@@ -1,10 +1,10 @@
 # Classfication-Types-in-Machine-Learning
-"LogisticRegression":LogisticRegression(),
-"DecisionTreeClassifier":DecisionTreeClassifier(),
-"SVM":SVC(),
-"Naive Bays":GaussianNB(),
-"KNN":KNeighborsClassifier(),
-"RandomForestClassifier":RandomForestClassifier(),
-"AdaBoostClassifier":AdaBoostClassifier(),
-"GradientBoostingClassifier":GradientBoostingClassifier(),
-"XGBClassifier":XGBClassifier()
+"LogisticRegression"
+"DecisionTreeClassifier"
+"SVM"
+"Naive Bays"
+"KNeighborsClassifier"
+"RandomForestClassifier"
+"AdaBoostClassifier"
+"GradientBoostingClassifier"
+"XGBClassifier"
